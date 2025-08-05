@@ -3,12 +3,12 @@ A sleek, modern To-Do List app built with Next.js and Redux Toolkit. Organize yo
 
 >Goal: To learn Next.js and Redux through building a practical project.
 
-
+![Tasks Added](public/assets/Tasks.png)
+![Tasks Completed](public/assets/Completed.png)
 
 ## Features
 - Add, edit, and delete tasks
 - Mark tasks as complete/incomplete
-- Filter by all / completed / active tasks
 - Persist state using Redux
 - Lightning-fast with Next.js SSR/SSG
 - Styled with Tailwind
